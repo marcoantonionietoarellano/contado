@@ -1,0 +1,18 @@
+.content {
+  display: grid;
+  place-items: center;
+  margin-top: 4rem; /* Ajusta el espacio entre el menú y el contenido */
+}
+
+.description {
+  font-size: 1rem; /* Aumentamos el tamaño del texto */
+  max-width: 800px; /* Reducimos el ancho máximo */
+  width: 90%;
+  margin-top: 3rem; /* Ajusta el espacio entre la imagen y el texto */
+  text-align: center;
+}
+
+.counter {
+  margin-top: 3rem; /* Ajusta el espacio entre el texto y el contador */
+  font-size: 1.5rem; /* Aumentamos el tamaño del contador */
+}
